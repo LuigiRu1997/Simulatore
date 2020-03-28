@@ -1,6 +1,6 @@
 # **Simulatore aeronautico Cessna 172**
 
-![Cessna172](https://it.wikipedia.org/wiki/Cessna_172#/media/File:Cessna172-CatalinaTakeOff.JPG)
+![Cessna172](https://upload.wikimedia.org/wikipedia/commons/b/b3/Cessna_172_1.jpg)
 
 |       Nome       |     Matricola    |
 |------------------|------------------|
@@ -9,6 +9,6 @@
 
 
 ## Descrizione ##
-<p> Paragrafo 1 </p>
+Il simulatore ha lo scopo di.....
 
-Questo è un paragrafo
+### Analisi ... ###
