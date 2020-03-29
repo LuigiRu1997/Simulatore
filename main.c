@@ -3,20 +3,10 @@
 
 int main()
 {
-  double num1;
-  double num2;
-  char op;
-  printf ("Enter the first number: ");
-  scanf("%lf", &num1 );
-  printf ("Enter an operator: ");
-  scanf(" %c", &op );
-  printf ("Enter the second number: ");
-  scanf("%lf", &num2 );
+  int numeri[] = {10,20,30,40};
+  int index;
+  for (index=0; index<4; index ++) {
+    printf("%d ", numeri[index]);
 
-  if (op == '+') { printf("%f", num1 + num2);}
-    else if (op == '-') {printf("%f", num1 - num2);}
-      else if (op == '/') {printf("%f", num1 / num2);}
-        else if (op == '*' ) {printf("%f", num1 * num2);}
-          else  {printf("Errore");}
-  return 0;
+  }
 }
