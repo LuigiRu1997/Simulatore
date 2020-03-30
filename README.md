@@ -5,7 +5,7 @@
 |       Nome       |     Matricola    |
 |------------------|------------------|
 | Luigi Russo      | s266152          |
-| Nicola Marabitti |                  |
+| Nicola Marabitti | s55434                 |
 
 
 ## Descrizione ##
