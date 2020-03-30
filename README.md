@@ -5,10 +5,11 @@
 |       Nome       |     Matricola    |
 |------------------|------------------|
 | Luigi Russo      | s266152          |
-| Nicola Marabitti | s55434                 |
+| Nicola Marabitti | s55434           |
 
 
 ## Descrizione ##
-Il simulatore ha lo scopo di.....
+Il simulatore ha lo scopo di.....reer
 
 ### Analisi ... ###
+fw
