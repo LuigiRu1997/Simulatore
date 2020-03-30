@@ -6,6 +6,7 @@ int main()
   int i;
   int j;
 int a=37,b=7;
+int mat[a][b];
 
 
   FILE *file;
