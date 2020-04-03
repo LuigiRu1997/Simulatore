@@ -34,7 +34,7 @@ int main()
 
   //fscanf(pEngine,200,&y);
   //printf("Number is: %d\n\n", engineValues);
-  fclose(pEngine); //chiude il FILE
+  fclose(pEngine); //chiude il file 
   pEngine = NULL; //azzera il puntatore e libera la memoria
 
 
