@@ -165,7 +165,6 @@ void lettura_dba()
     opzMassa = c[0];
     frazPesoComb = c[1];
 
-   return 0;
 
     }
 
