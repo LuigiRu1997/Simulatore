@@ -31,7 +31,7 @@ int main(){
                     a1++;
                     i++;
                     }
-                else if( i>28 && i<34){
+                else if( i>28 && i<35){
                     sscanf(nome1,"%lf", &b[b1]);
                     i++;
                     printf("%lf\n",b[b1]);
@@ -52,7 +52,7 @@ int main(){
                 else if (i>175 && i<302){
                     sscanf(nome1,"%f%lf%lf%lf%lf%lf%lf%1f",&passo,&cxa[e1],&cxap[e1],&cxu[e1],&cxq[e1],&cxb[e1],&cxp[e1],&cxr[e1]);
                     i++;
-                    printf("%lf %lf %lf %lf %lf %lf %lf\n",cxa[e1],cxap[e1],cxu[e1],cxq[e1],cxb[e1],cxp[e1],cxr[e1]);
+                    printf("%f %lf %lf %lf %lf %lf %lf %lf\n",passo,cxa[e1],cxap[e1],cxu[e1],cxq[e1],cxb[e1],cxp[e1],cxr[e1]);
                     e1++;
                     }
                 else if (i>305 && i<432){
