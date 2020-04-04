@@ -29,17 +29,18 @@ int main()
         scanf("%f",&x);
     }
 
-    while(i){
+    while(i)
+    {
         if(x>=a[s] && x<=a[s+1])
         {
           a1=a[s];
           a2=a[s+1];
           c1=c[s];
           c2=c[s+1];
-          i=0;
+          i=0; //esce dal ciclo
         }
-        else{ s++; }
-        }
+        else  { s++; }
+      }
     cf=funz(x,a1,a2,c1,c2);
     printf("il valore di cf e': %f\n",cf);
 }
