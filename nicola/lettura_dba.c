@@ -7,10 +7,10 @@
 char nome1[100];
 int i=1,j=1,a1=0,b1=0,c1=0,d1=0,e1=0,f1=0,g1=0,h1=0,i1=0,l1=0,m1=0;
 float passo;
-double a[10];double b[10];double c[10];double alpha[10];double cx[10];double cy[10];double cz[10];double cl[10];double cm[10];double cn[10];
-double cxa[10];double cxap[10];double cxu[10];double cxq[10];double cxb[10];double cxp[10];double cxr[10];
-double cyb[10];double cybp[10];double cyp[10];double cyr[10];double cya[10];double cyq[10];
-double czal[10];double czap[10];double czu[10];double czq[10];double czb[10];double czp[10];double czr[10];
+double a[22];double b[6];double c[2];double alpha[126];double cx[126];double cy[126];double cz[126];double cl[126];double cm[126];double cn[126];
+double cxa[126];double cxap[126];double cxu[126];double cxq[126];double cxb[126];double cxp[126];double cxr[126];
+double cyb[126];double cybp[126];double cyp[126];double cyr[126];double cya[126];double cyq[126];
+double czal[126];double czap[126];double czu[126];double czq[126];double czb[126];double czp[126];double czr[126];
 
 
 
@@ -25,7 +25,7 @@ int main(){
 
     while(j){
             fgets(nome1,150,fp);
-            if(i>3 && i<22){
+            if(i>3 && i<26){
                     sscanf(nome1,"%lf", &a[a1]);
                     printf("%lf\n",a[a1]);
                     a1++;
